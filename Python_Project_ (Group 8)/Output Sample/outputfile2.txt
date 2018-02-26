@@ -1,0 +1,202 @@
+
+
+ Information Regarding End of life/ End of Support for Device : R4
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: 4-Port Serial Port Adapter, Enhanced
+PID : PA-4T+=
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R5
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R6
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R7
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R1
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: 4-Port Serial Port Adapter, Enhanced
+PID : PA-4T+=
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R2
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: 4-Port Serial Port Adapter, Enhanced
+PID : PA-4T+=
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R3
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 
+
+ Information Regarding End of life/ End of Support for Device : R8
+
+Product Description: 1-Port Fast Ethernet 100BaseTx Port Adapter
+PID : PA-FE-TX
+Last Date of Support : 2008-10-31
+Product Description: 7200VXR NPE-400
+PID : NPE-400
+Last Date of Support : 2015-09-08
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: Cisco 7206VXR, 6-slot chassis, 1 AC Supply w/IP Software
+PID : CISCO7206VXR
+Last Date of Support : 2017-09-30
+Product Description: 
+PID : 
+Last Date of Support : 
+Product Description: 
+PID : 
+Last Date of Support : 

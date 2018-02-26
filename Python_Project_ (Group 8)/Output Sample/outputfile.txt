@@ -1,0 +1,347 @@
+
+
+Managment IP: 192.168.1.1
+Password : cisco123
+hostname: R4
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to debian Host
+
+interface name: Fa1/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Fa2/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Se3/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to R2
+
+interface name: Se3/1
+
+interface status: up 
+protocol description: up
+interface Description: connection to R1
+
+interface name: Se3/2
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Se3/3
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "module 3" "Serial
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 10.1.1.2
+Password : cisco
+hostname: R2
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to R3
+
+interface name: Fa1/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Fa2/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Se3/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to R4
+
+interface name: Se3/1
+
+interface status: up 
+protocol description: up
+interface Description: connection to R1
+
+interface name: Se3/2
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Se3/3
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "module 3" "Serial
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 10.1.1.6
+Password : cisco
+hostname: R1
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: 
+
+interface name: Fa1/0
+
+interface status: down 
+protocol description: down
+interface Description: 
+
+interface name: Fa2/0
+
+interface status: up 
+protocol description: up
+interface Description: 
+
+interface name: Se3/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to R4
+
+interface name: Se3/1
+
+interface status: up 
+protocol description: up
+interface Description: connection to R2
+
+interface name: Se3/2
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Se3/3
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "module 3" "Serial
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 10.1.1.14
+Password : cisco
+hostname: R3
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: 
+
+interface name: Fa1/0
+
+interface status: up 
+protocol description: up
+interface Description: 
+
+interface name: Fa2/0
+
+interface status: down 
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 10.1.1.22
+Password : cisco
+hostname: R5
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to Sw2
+
+interface name: Fa1/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to R1
+
+interface name: Fa2/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 4.4.4.2
+Password : cisco123
+hostname: R6
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to Sw2
+
+interface name: Fa1/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Fa2/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 4.4.4.3
+Password : cisco123
+hostname: R7
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to Sw2
+
+interface name: Fa1/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+
+interface name: Fa2/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
+
+
+Managment IP: 4.4.4.4
+Password : cisco123
+hostname: R8
+
+
+OS version: 15.2(4)M7
+HW version: Cisco 7206VXR (NPE400) processor (revision A)
+
+interface name: Fa0/0
+
+interface status: up 
+protocol description: up
+interface Description: Connection to Sw2
+
+interface name: Fa1/0
+
+interface status: up 
+protocol description: up
+interface Description: connection to ComputerHost
+
+interface name: Fa2/0
+
+interface status: admin down
+protocol description: down
+interface Description: 
+Connected Modules Name and Description: "Chassis" "Cisco 7206VXR, 6-slot chassis
+Connected Modules Name and Description: "NPE400 0" "Cisco 7200VXR Network Processing Engine NPE-400
+Connected Modules Name and Description: "module 0" "I/O FastEthernet (TX-ISL)
+Connected Modules Name and Description: "module 1" "FastEthernet
+Connected Modules Name and Description: "module 2" "FastEthernet
+Connected Modules Name and Description: "Power Supply 1" "Cisco 7200 AC Power Supply
+Connected Modules Name and Description: "Power Supply 2" "Cisco 7200 AC Power Supply
