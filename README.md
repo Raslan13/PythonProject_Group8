@@ -5,13 +5,13 @@ Raslan Rassalan, Victoria Fetisova, Radu Postolache
 !!! To Run the program simply Run: python Project.py
 
 
-!!! For the program to run Successfully you must import and install all modules Used
-!!! You Must have Mysql database as a localhost with Name(Case Senstive): PythonProject,username: root,Password: root
-!!! MySql database Should contain a table called(Case Senstive): routers
-!!! the table should contain the following columns as varchar type (Name Case Senstive):Hostname,IP,Password,OS_Ver,
-!!! HW_Ver,INTDESCSTAT,Modules,ConnectedRouters
-!!! IP column should be a unique Index
-!!! The Regex was written based on the output of CISCO 7206VXR Router Running IOS 15.2(4)M7
+!!! For the program to run Successfully you must import and install all modules Used                                                     
+!!! You Must have Mysql database as a localhost with Name(Case Senstive): PythonProject,username: root,Password: root                   
+!!! MySql database Should contain a table called(Case Senstive): routers                                                                 
+!!! the table should contain the following columns as varchar type (Name Case Senstive):Hostname,IP,Password,OS_Ver,                     
+!!! HW_Ver,INTDESCSTAT,Modules,ConnectedRouters                                                                                         
+!!! IP column should be a unique Index                                                                                                   
+!!! The Regex was written based on the output of CISCO 7206VXR Router Running IOS 15.2(4)M7                                             
 
 
 
